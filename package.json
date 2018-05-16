@@ -1,0 +1,14 @@
+{
+  "name": "project10backend",
+  "version": "1.0.0",
+  "description": "Can you even handle the dankness?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam, the jam, with the oversized ham.",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.0.1"
+  }
+}
